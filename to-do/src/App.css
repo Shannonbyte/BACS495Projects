@@ -1,0 +1,42 @@
+* {
+  background-color: #eef1ff
+
+}
+
+.App{
+  display : flex;
+  justify-content: center;
+  padding-top: 115px;
+}
+
+.App-Container{
+  outline: 5px double #DDDDDD;
+  outline-offset: 14px;
+}
+
+.App-Header-Container{
+
+}
+
+.Todo-Header{
+
+}
+
+.Todo-List{
+
+}
+
+.Todo{
+
+}
+
+.Button-Check{
+  background-color: #eeffee;
+  padding-right: 5px;
+  margin: 2px;
+}
+
+.Button-Delete{
+  background-color: #ffeeee;
+  padding-left: 5px;
+}
