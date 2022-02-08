@@ -7,6 +7,7 @@
   display : flex;
   justify-content: center;
   padding-top: 115px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .App-Container{
@@ -27,7 +28,8 @@
 }
 
 .Todo{
-
+  font-family: "Courier New", Courier, monospace;
+  font-variant: small-caps;
 }
 
 .Button-Check{
@@ -39,4 +41,12 @@
 .Button-Delete{
   background-color: #ffeeee;
   padding-left: 5px;
+}
+
+.Add-Textbox{
+  font-family: "Courier New", Courier, monospace;
+}
+
+.Submit-Button{
+  font-family: "Courier New", Courier, monospace;
 }
